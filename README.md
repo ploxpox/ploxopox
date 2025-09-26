@@ -55,4 +55,6 @@ Email: your.email@example.com
 Буду рад сотрудничеству и новым знакомствам. 😊
 
 
-[![Telegram](https://your-image-url.com/telegram-button.png)](https://t.me/yourchannel)
+<a href="https://t.me/yourchannel" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#26A5E4; color:white; font-weight:bold; border-radius:12px; text-decoration:none; font-family:sans-serif;">
+  Telegram Channel
+</a>
