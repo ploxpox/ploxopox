@@ -3,6 +3,7 @@
 
 
 <p align="center">
+  <h2>Я в соц сетях</h2>
   
   <a href="">
     <picture>
