@@ -1,3 +1,28 @@
+
+<h3 align="center">Мои социальные сети</h3>
+<div align="center">
+  <!-- YouTube -->
+  <a href="https://youtube.com/Ваш_Канал">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/Ваш_Телеграм">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</div>
+
+
+
+
+
+
+
 <!--youtube-->
 ![youtube-color-svgrepo-com](https://github.com/user-attachments/assets/fdb1f983-6ec6-4c97-81fe-13614e2370b8)![google-gmail-svgrepo-com](https://github.com/user-attachments/assets/095a3d96-3a33-4448-aa28-170abe64b1fa)![telegram-svgrepo-com](https://github.com/user-attachments/assets/2797b91f-afa3-40e7-9702-6b689b1a4b5f)
 ![Uploading <?xml version="1.0" encoding="UTF-8" standalone="no"?>
