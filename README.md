@@ -63,53 +63,7 @@
 
 ---
 
-## 🌐 Социальные сети и контакты
-<div style="display: flex; gap: 15px;">
-  <!-- Telegram -->
-  <a href="https://t.me/yourchannel" target="_blank" style="
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 50px;
-    height: 50px;
-    background-color: #26A5E4;
-    border-radius: 12px;
-    text-decoration: none;
-  " title="Telegram">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" style="width: 28px; height: 28px;" />
-  </a>
 
-  <!-- Email -->
-  <a href="mailto:your@email.com" style="
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 50px;
-    height: 50px;
-    background-color: #D44638;
-    border-radius: 12px;
-    text-decoration: none;
-  " title="Email">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" style="width: 28px; height: 28px;" />
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/yourusername" target="_blank" style="
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 50px;
-    height: 50px;
-    background-color: #333333;
-    border-radius: 12px;
-    text-decoration: none;
-  " title="GitHub">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" style="width: 28px; height: 28px;" />
-  </a>
-</div>
-</div>
-
----
 
 ## 📈 Моя статистика GitHub
 
