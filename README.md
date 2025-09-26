@@ -54,3 +54,5 @@ Email: your.email@example.com
 Спасибо за визит!  
 Буду рад сотрудничеству и новым знакомствам. 😊
 
+
+[![Telegram](https://your-image-url.com/telegram-button.png)](https://t.me/yourchannel)
