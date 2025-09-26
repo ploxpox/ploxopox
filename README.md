@@ -60,5 +60,4 @@ Email: your.email@example.com
 
 
 </a>
-
- [![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/yourchannel)
+[![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/yourchannel)
