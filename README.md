@@ -6,7 +6,7 @@
 
   
   <a href="https:">
-    <img width="96" height="96" alt="icons8-телеграм-96" src="https://github.com/user-attachments/assets/f0a6c68d-dca1-4ea8-b085-8206363c3806" />
+    <img width="96" height="96" alt="icons8-телеграм-96" src="https://github.com/user-attachments/assets/f0a6c68d-dca1-4ea8-b085-8206363c380" />
   </a>
   
   <a href="">
