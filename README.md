@@ -61,7 +61,19 @@ Email: your.email@example.com
 
 </a>
 [![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/yourchannel)
-
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://t.me/yourchannel" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:your@email.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14438?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/yourusername" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 <a href="https://t.me/yourchannel" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" style="width:40px;" />
 </a>
+
+
