@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+![telegram-svgrepo-com](https://github.com/user-attachments/assets/1848ea8b-9365-491e-a674-db6c950d0ed3)
+
+![Uploading<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
 <svg width="800px" height="800px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
 		<g>
@@ -15,10 +17,7 @@
 
 </path>
 		</g>
-</svg>
-![telegram-svgrepo-com](https://github.com/user-attachments/assets/92279761-1bb5-4cf0-9fa9-7d64c58623e2)
-
-
+</svg> telegram-svgrepo-com.svg…]()
 
 
  Привет, я Carrot 👋
