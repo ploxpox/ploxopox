@@ -29,16 +29,49 @@
 ---
 
 ## 🌐 Социальные сети и контакты
-<div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://t.me/yourchannel" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
+<div style="display: flex; gap: 15px;">
+  <!-- Telegram -->
+  <a href="https://t.me/yourchannel" target="_blank" style="
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    background-color: #26A5E4;
+    border-radius: 12px;
+    text-decoration: none;
+  " title="Telegram">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" style="width: 28px; height: 28px;" />
   </a>
-  <a href="mailto:your@email.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-D14438?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+
+  <!-- Email -->
+  <a href="mailto:your@email.com" style="
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    background-color: #D44638;
+    border-radius: 12px;
+    text-decoration: none;
+  " title="Email">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" style="width: 28px; height: 28px;" />
   </a>
-  <a href="https://github.com/yourusername" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+
+  <!-- GitHub -->
+  <a href="https://github.com/yourusername" target="_blank" style="
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    background-color: #333333;
+    border-radius: 12px;
+    text-decoration: none;
+  " title="GitHub">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" style="width: 28px; height: 28px;" />
   </a>
+</div>
 </div>
 
 ---
