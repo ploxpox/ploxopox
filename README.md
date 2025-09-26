@@ -1,6 +1,5 @@
-# ploxopox
-
-![Uploading telegram-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+![telegram-svgrepo-com](https://github.com/user-attachments/assets/74b63706-7d64-4932-8a6b-186405e43884)# ploxopox
+![Uploading tel<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
 <svg width="800px" height="800px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
 		<g>
@@ -17,7 +16,9 @@
 
 </path>
 		</g>
-</svg>svgrepo-com.svg…]()
+</svg>egram-svgrepo-com.svg…]()
+
+
 
  Привет, я Carrot 👋
 
