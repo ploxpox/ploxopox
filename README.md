@@ -1,10 +1,8 @@
 
 
 <h2 align="center">Я в соц сетях</h2>
-
+###
 <p align="center">
-  
-  
   <a href="">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
@@ -20,8 +18,7 @@
   </a>
   <a href="">
     <img width="48" height="48" alt="icons8-телеграм-96" src="https://github.com/user-attachments/assets/f0a6c68d-dca1-4ea8-b085-8206363c3806"/>
-  </a>
-   
+  </a>  
 </p>
 
 
