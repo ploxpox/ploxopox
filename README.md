@@ -32,18 +32,18 @@
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" style="width: 28px; height: 28px;" />
   </a>
 
-  <!-- Gmail -->
-  <a href="mailto:your@gmail.com" style="
+  <!-- Универсальная иконка почты -->
+  <a href="mailto:your@email.com" style="
     display: flex;
     justify-content: center;
     align-items: center;
     width: 50px;
     height: 50px;
-    background-color: #D14836;
+    background-color: #ea4335; /* красный оттенок */
     border-radius: 12px;
     text-decoration: none;
-  " title="Gmail">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" style="width: 28px; height: 28px;" />
+  " title="Email">
+    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email" style="width: 28px; height: 28px;" />
   </a>
 
   <!-- GitHub -->
@@ -54,12 +54,7 @@
     width: 50px;
     height: 50px;
     background-color: #333333;
-    border-radius: 12px;
-    text-decoration: none;
-  " title="GitHub">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" style="width: 28px; height: 28px;" />
-  </a>
-</div>
+    border-radius
 
 ---
 
