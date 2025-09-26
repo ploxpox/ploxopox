@@ -8,11 +8,11 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
-  <a href="https://discord.gg/WjEFnzC">
+  <a href="">
     <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
   <a href="https://www.threads.net/@peterthehan">
     <picture>
-  <a href="https://youtube.com/@peterthehan">
+  <a href="">
     <img alt="YouTube" title="YouTube" height="48" width="48" src="https://cdn.simpleicons.org/youtube"></a>
   <a href="https:">
     <img width="48" height="48" alt="icons8-gmail-48" src="https://github.com/user-attachments/assets/3db7613d-d1c1-4203-a026-93b842cd3bb7" />
