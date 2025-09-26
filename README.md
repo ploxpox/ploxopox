@@ -1,26 +1,21 @@
-
-<h3 align="center">Мои социальные сети</h3>
-<div align="center">
+<div align="center" style="display: flex; gap: 15px; justify-content: center; margin: 20px 0;">
+  
   <!-- YouTube -->
-<a href="https://youtube.com/ВАШ_КАНАЛ" target="_blank">
-  <svg width="32" height="32" viewBox="0 -7 48 48" fill="#CE1312">
-    <path d="M219.044,391.269916 L219.0425,377.687742 L232.0115,384.502244 L219.044,391.269916 Z M247.52,375.334163 C247.52,375.334163 247.0505,372.003199 245.612,370.536366 C243.7865,368.610299 241.7405,368.601235 240.803,368.489448 C234.086,368 224.0105,368 224.0105,368 L223.9895,368 C223.9895,368 213.914,368 207.197,368.489448 C206.258,368.601235 204.2135,368.610299 202.3865,370.536366 C200.948,372.003199 200.48,375.334163 200.48,375.334163 C200.48,375.334163 200,379.246723 200,383.157773 L200,386.82561 C200,390.73817 200.48,394.64922 200.48,394.64922 C200.48,394.64922 200.948,397.980184 202.3865,399.447016 C204.2135,401.373084 206.612,401.312658 207.68,401.513574 C211.52,401.885191 224,402 224,402 C224,402 234.086,401.984894 240.803,401.495446 C241.7405,401.382148 243.7865,401.373084 245.612,399.447016 C247.0505,397.980184 247.52,394.64922 247.52,394.64922 C247.52,394.64922 248,390.73817 248,386.82561 L248,383.157773 C248,379.246723 247.52,375.334163 247.52,375.334163 L247.52,375.334163 Z"/>
-  </svg>
-</a>
-
+  <a href="https://youtube.com/ВАШ_КАНАЛ" target="_blank">
+    <img src="https://simpleicons.org/icons/youtube.svg" width="28" height="28" alt="YouTube"/>
+  </a>
+  
   <!-- Gmail -->
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:ВАШ_EMAIL@gmail.com" target="_blank">
+    <img src="https://simpleicons.org/icons/gmail.svg" width="28" height="28" alt="Gmail"/>
   </a>
-
+  
   <!-- Telegram -->
-  <a href="https://t.me/Ваш_Телеграм">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://t.me/ВАШ_ТЕЛЕГРАМ" target="_blank">
+    <img src="https://simpleicons.org/icons/telegram.svg" width="28" height="28" alt="Telegram"/>
   </a>
+  
 </div>
-
-
-
 
 
 
