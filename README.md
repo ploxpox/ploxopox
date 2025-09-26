@@ -1,7 +1,6 @@
-
-
+<!--СОЦ СЕТИ-->
 <h2 align="center">Я в соц сетях</h2>
-###
+
 <p align="center">
   <a href="">
     <picture>
