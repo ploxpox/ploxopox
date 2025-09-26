@@ -1,22 +1,24 @@
-<div align="center" style="display: flex; gap: 15px; justify-content: center; margin: 20px 0;">
-  
-  <!-- YouTube -->
-  <a href="https://youtube.com/ВАШ_КАНАЛ" target="_blank">
-    <img src="https://simpleicons.org/icons/youtube.svg" width="28" height="28" alt="YouTube"/>
-  </a>
-  
-  <!-- Gmail -->
-  <a href="mailto:ВАШ_EMAIL@gmail.com" target="_blank">
-    <img src="https://simpleicons.org/icons/gmail.svg" width="28" height="28" alt="Gmail"/>
-  </a>
-  
-  <!-- Telegram -->
-  <a href="https://t.me/ВАШ_ТЕЛЕГРАМ" target="_blank">
-    <img src="https://simpleicons.org/icons/telegram.svg" width="28" height="28" alt="Telegram"/>
-  </a>
-  
-</div>
+<div align="center" style="display: flex; gap: 12px; justify-content: center; margin: 20px 0;">
 
+<!-- YouTube -->
+<a href="https://youtube.com/ВАШ_КАНАЛ" target="_blank" style="display: inline-block; padding: 10px 16px; background: #FF0000; border-radius: 8px; color: white; text-decoration: none; font-weight: 500;">
+  <img src="https://simpleicons.org/icons/youtube.svg" width="20" height="20" style="vertical-align: middle; margin-right: 6px;" alt="YouTube"/>
+  YouTube
+</a>
+
+<!-- Gmail -->
+<a href="mailto:ВАШ_EMAIL@gmail.com" target="_blank" style="display: inline-block; padding: 10px 16px; background: #EA4335; border-radius: 8px; color: white; text-decoration: none; font-weight: 500;">
+  <img src="https://simpleicons.org/icons/gmail.svg" width="20" height="20" style="vertical-align: middle; margin-right: 6px;" alt="Gmail"/>
+  Gmail
+</a>
+
+<!-- Telegram -->
+<a href="https://t.me/ВАШ_ТЕЛЕГРАМ" target="_blank" style="display: inline-block; padding: 10px 16px; background: #26A5E4; border-radius: 8px; color: white; text-decoration: none; font-weight: 500;">
+  <img src="https://simpleicons.org/icons/telegram.svg" width="20" height="20" style="vertical-align: middle; margin-right: 6px;" alt="Telegram"/>
+  Telegram
+</a>
+
+</div>
 
 
 
