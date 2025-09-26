@@ -1,4 +1,50 @@
 
+<div align="center" style="display: flex; gap: 15px; justify-content: center; margin: 20px 0;">
+
+<!-- YouTube -->
+<a href="https://youtube.com/ВАШ_КАНАЛ" target="_blank" 
+   style="display: inline-flex; align-items: center; justify-content: center; 
+          width: 50px; height: 50px; background: #FF0000; border-radius: 12px; 
+          text-decoration: none; transition: transform 0.2s;">
+  <svg width="28" height="28" viewBox="0 0 24 24" fill="white">
+    <path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/>
+  </svg>
+</a>
+
+<!-- Gmail -->
+<a href="mailto:ВАШ_EMAIL@gmail.com" target="_blank" 
+   style="display: inline-flex; align-items: center; justify-content: center; 
+          width: 50px; height: 50px; background: #EA4335; border-radius: 12px; 
+          text-decoration: none; transition: transform 0.2s;">
+  <svg width="28" height="28" viewBox="0 0 24 24" fill="white">
+    <path d="M24 4.5v15c0 .85-.65 1.5-1.5 1.5H21V7.387l-9 6.463-9-6.463V21H1.5C.65 21 0 20.35 0 19.5v-15c0-.425.162-.8.431-1.068C.7 3.16 1.076 3 1.5 3H2l10 7.25L22 3h.5c.425 0 .8.162 1.069.432.27.268.431.643.431 1.068z"/>
+  </svg>
+</a>
+
+<!-- Telegram -->
+<a href="https://t.me/ВАШ_ТЕЛЕГРАМ" target="_blank" 
+   style="display: inline-flex; align-items: center; justify-content: center; 
+          width: 50px; height: 50px; background: #26A5E4; border-radius: 12px; 
+          text-decoration: none; transition: transform 0.2s;">
+  <svg width="28" height="28" viewBox="0 0 24 24" fill="white">
+    <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.894 8.221l-1.97 9.28c-.145.658-.537.818-1.084.508l-3-2.21-1.447 1.394c-.14.14-.26.26-.534.26l.213-3.05 5.56-5.022c.24-.213-.054-.334-.373-.121l-6.87 4.326-2.96-.924c-.64-.203-.658-.64.136-.954l11.57-4.458c.538-.196 1.006.128.832.941z"/>
+  </svg>
+</a>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <div align="center" style="display: flex; gap: 12px; justify-content: center; margin: 20px 0;">
