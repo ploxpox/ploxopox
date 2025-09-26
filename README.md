@@ -1,4 +1,3 @@
-![telegram-svgrepo-com](https://github.com/user-attachments/assets/4f52a85c-6eec-4eda-856f-39fddca853af)<h1 align="center"><a href="https://peterhan.dev">Hi, I'm Carrot 👋</a></h1>
 
 <p align="center">
 
