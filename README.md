@@ -13,7 +13,7 @@
     <img alt="YouTube" title="YouTube" height="48" width="48" src="https://cdn.simpleicons.org/youtube"></a>
   <a href="https:">
     <img width="48" height="48" alt="telegram-64x64" src="https://github.com/user-attachments/assets/03132192-7abf-4681-99ba-b7a9ec6276bf" />
- "></a>
+</a>
 </p>
 
 
