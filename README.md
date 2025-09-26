@@ -17,7 +17,6 @@
   <a href="https:">
     <img width="48" height="48" alt="icons8-gmail-48" src="https://github.com/user-attachments/assets/3db7613d-d1c1-4203-a026-93b842cd3bb7" />
   </a>
-
   <a href=""https:">
     <img width="48" height="48" alt="telegram-64x64" src="https://github.com/user-attachments/assets/03132192-7abf-4681-99ba-b7a9ec6276bf"/>
   </a>
