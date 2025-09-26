@@ -1,3 +1,5 @@
+
+<!--иконка телеграмма-->
 ![telegram-svgrepo-com](https://github.com/user-attachments/assets/74b63706-7d64-4932-8a6b-186405e43884)
 ![Uploading tel<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
