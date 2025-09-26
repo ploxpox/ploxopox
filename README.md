@@ -57,4 +57,8 @@ Email: your.email@example.com
 
 <a href="https://t.me/yourchannel" target="_blank" style="display:inline-block; padding:10px 20px; background-color:#26A5E4; color:white; font-weight:bold; border-radius:12px; text-decoration:none; font-family:sans-serif;">
   Telegram Channel
+
+
 </a>
+
+ [![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/yourchannel)
