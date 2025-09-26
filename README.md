@@ -1,9 +1,9 @@
 
 
-
+<h2 align="center">Я в соц сетях</h2>
 
 <p align="center">
-  <h2>Я в соц сетях</h2>
+  
   
   <a href="">
     <picture>
