@@ -1,17 +1,33 @@
-<div align="center" style="display: flex; gap: 10px; justify-content: center; margin: 20px 0;">
+
+
+
+<div align="center" style="display: flex; gap: 12px; justify-content: center; margin: 20px 0;">
 
 <!-- YouTube -->
-<a href="https://youtube.com/ВАШ_КАНАЛ" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; width: 50px; height: 50px; background: #FF0000; border-radius: 12px; text-decoration: none;">
-  <img src="https://simpleicons.org/icons/youtube.svg" width="24" height="24" alt="YouTube"/>
+<a href="https://youtube.com/ВАШ_КАНАЛ" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 20px; background: #FF0000; border-radius: 10px; color: white; text-decoration: none; font-weight: 500; transition: all 0.3s ease;">
+  <img src="https://simpleicons.org/icons/youtube.svg" width="22" height="22" alt="YouTube"/>
+  YouTube
 </a>
 
 <!-- Gmail -->
-<a href="mailto:ВАШ_EMAIL@gmail.com" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; width: 50px; height: 50px; background: #EA4335; border-radius: 12px; text-decoration: none;">
-  <img src="https://simpleicons.org/icons/gmail.svg" width="24" height="24
+<a href="mailto:ВАШ_EMAIL@gmail.com" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 20px; background: #EA4335; border-radius: 10px; color: white; text-decoration: none; font-weight: 500; transition: all 0.3s ease;">
+  <img src="https://simpleicons.org/icons/gmail.svg" width="22" height="22" alt="Gmail"/>
+  Gmail
+</a>
+
+<!-- Telegram -->
+<a href="https://t.me/ВАШ_ТЕЛЕГРАМ" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 20px; background: #26A5E4; border-radius: 10px; color: white; text-decoration: none; font-weight: 500; transition: all 0.3s ease;">
+  <img src="https://simpleicons.org/icons/telegram.svg" width="22" height="22" alt="Telegram"/>
+  Telegram
+</a>
+
+</div>
 
 
 
-<!--youtube-->
+
+
+
 ![youtube-color-svgrepo-com](https://github.com/user-attachments/assets/fdb1f983-6ec6-4c97-81fe-13614e2370b8)![google-gmail-svgrepo-com](https://github.com/user-attachments/assets/095a3d96-3a33-4448-aa28-170abe64b1fa)![telegram-svgrepo-com](https://github.com/user-attachments/assets/2797b91f-afa3-40e7-9702-6b689b1a4b5f)
 ![Uploading <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
