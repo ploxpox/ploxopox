@@ -1,5 +1,3 @@
-![telegram-svgrepo-com](https://github.com/user-attachments/assets/531fbded-d3ee-406d-b11a-79ce95b98221)
-<!--иконка телеграмма-->
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
 <svg width="800px" height="800px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
@@ -17,7 +15,8 @@
 
 </path>
 		</g>
-</svg>oading telegram-svgrepo-com.svg…]()
+</svg>
+![telegram-svgrepo-com](https://github.com/user-attachments/assets/92279761-1bb5-4cf0-9fa9-7d64c58623e2)
 
 
 
