@@ -1,24 +1,13 @@
-<div align="center" style="display: flex; gap: 12px; justify-content: center; margin: 20px 0;">
+<div align="center" style="display: flex; gap: 10px; justify-content: center; margin: 20px 0;">
 
 <!-- YouTube -->
-<a href="https://youtube.com/ВАШ_КАНАЛ" target="_blank" style="display: inline-block; padding: 10px 16px; background: #FF0000; border-radius: 8px; color: white; text-decoration: none; font-weight: 500;">
-  <img src="https://simpleicons.org/icons/youtube.svg" width="20" height="20" style="vertical-align: middle; margin-right: 6px;" alt="YouTube"/>
-  YouTube
+<a href="https://youtube.com/ВАШ_КАНАЛ" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; width: 50px; height: 50px; background: #FF0000; border-radius: 12px; text-decoration: none;">
+  <img src="https://simpleicons.org/icons/youtube.svg" width="24" height="24" alt="YouTube"/>
 </a>
 
 <!-- Gmail -->
-<a href="mailto:ВАШ_EMAIL@gmail.com" target="_blank" style="display: inline-block; padding: 10px 16px; background: #EA4335; border-radius: 8px; color: white; text-decoration: none; font-weight: 500;">
-  <img src="https://simpleicons.org/icons/gmail.svg" width="20" height="20" style="vertical-align: middle; margin-right: 6px;" alt="Gmail"/>
-  Gmail
-</a>
-
-<!-- Telegram -->
-<a href="https://t.me/ВАШ_ТЕЛЕГРАМ" target="_blank" style="display: inline-block; padding: 10px 16px; background: #26A5E4; border-radius: 8px; color: white; text-decoration: none; font-weight: 500;">
-  <img src="https://simpleicons.org/icons/telegram.svg" width="20" height="20" style="vertical-align: middle; margin-right: 6px;" alt="Telegram"/>
-  Telegram
-</a>
-
-</div>
+<a href="mailto:ВАШ_EMAIL@gmail.com" target="_blank" style="display: inline-flex; align-items: center; justify-content: center; width: 50px; height: 50px; background: #EA4335; border-radius: 12px; text-decoration: none;">
+  <img src="https://simpleicons.org/icons/gmail.svg" width="24" height="24
 
 
 
