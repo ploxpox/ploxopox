@@ -15,9 +15,8 @@
     <img width="48" height="48" alt="telegram-64x64" src="https://github.com/user-attachments/assets/03132192-7abf-4681-99ba-b7a9ec6276bf" />
   </a>
 
-   <a href="https://youtube.com/@peterthehan">
-    <img alt="YouTube" title="YouTube" height="48" width="48" src="<?xml version="1.0" encoding="UTF-8"?>
-<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+  <a href="https:">
+    
 <svg width="800px" height="800px" viewBox="0 -31.5 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
     <g>
         <path d="M58.1818182,192.049515 L58.1818182,93.1404244 L27.5066233,65.0770089 L0,49.5040608 L0,174.59497 C0,184.253152 7.82545455,192.049515 17.4545455,192.049515 L58.1818182,192.049515 Z" fill="#4285F4">
@@ -36,8 +35,11 @@
 
 </path>
     </g>
-</svg>![google-gmail-svgrepo-com](https://github.com/user-attachments/assets/88127cbd-64ef-4ec2-ab48-e25614d0b6fb)
-"></a>
+</svg>![google-gmail-svgrepo-com](https://github.com/user-attachments/assets/8b4eef7f-fddd-4ebf-b73b-d42971ce7afc)
+ " />
+  </a>
+
+   
       
 </p>
 
