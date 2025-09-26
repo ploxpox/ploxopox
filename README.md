@@ -2,7 +2,7 @@
 ![youtube-color-svgrepo-com](https://github.com/user-attachments/assets/fdb1f983-6ec6-4c97-81fe-13614e2370b8)![google-gmail-svgrepo-com](https://github.com/user-attachments/assets/095a3d96-3a33-4448-aa28-170abe64b1fa)![telegram-svgrepo-com](https://github.com/user-attachments/assets/2797b91f-afa3-40e7-9702-6b689b1a4b5f)
 ![Uploading <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg width="800px" height="800px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+<svg width="80px" height="80px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
 		<g>
 				<path d="M128,0 C57.307,0 0,57.307 0,128 L0,128 C0,198.693 57.307,256 128,256 L128,256 C198.693,256 256,198.693 256,128 L256,128 C256,57.307 198.693,0 128,0 L128,0 Z" fill="#40B3E0">
 
