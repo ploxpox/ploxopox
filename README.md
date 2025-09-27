@@ -18,9 +18,6 @@
   <a href="">
     <img width="48" height="48" alt="icons8-телеграм-96" src="https://github.com/user-attachments/assets/f0a6c68d-dca1-4ea8-b085-8206363c3806"/>
   </a>  
-
-
-    <!-- Telegram -->
   <a href="https://t.me/yourchannel" target="_blank" style="
     display: flex;
     justify-content: center;
