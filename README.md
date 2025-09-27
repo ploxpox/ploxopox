@@ -18,18 +18,6 @@
   <a href="">
     <img width="48" height="48" alt="icons8-телеграм-96" src="https://github.com/user-attachments/assets/f0a6c68d-dca1-4ea8-b085-8206363c3806"/>
   </a>  
-  <a href="https://t.me/yourchannel" target="_blank" style="
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 50px;
-    height: 50px;
-    background-color: #26A5E4;
-    border-radius: 12px;
-    text-decoration: none;
-  " title="Telegram">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" style="width: 28px; height: 28px;" />
-  </a>
 </p>
 
 
