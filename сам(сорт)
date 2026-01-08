@@ -1,0 +1,52 @@
+import os
+
+# Словарь: папка -> расширение (БЕЗ точек!)
+Folder = {
+    'txt_files': 'txt',   
+    'jpg_files': 'jpg',
+    'mp3_files': 'mp3'
+}
+
+print("📁 Создаю папки для сортировки...")
+for folder_name in Folder.keys():
+    if not os.path.exists(folder_name):
+        os.mkdir(folder_name)
+        print(f"✅ Создана папка: {folder_name}")
+    else:
+        print(f"ℹ️ Папка уже существует: {folder_name}")
+
+print("\n🔍 Начинаю сортировку файлов...")
+все_объекты = os.listdir()
+
+for filename in все_объекты:
+    if filename in Folder.keys():
+        continue
+    
+    if not os.path.isfile(filename):
+        continue
+    
+    # ПРАВИЛЬНОЕ получение расширения:
+    _, extension = os.path.splitext(filename)  # ← правильно разбиваем кортеж
+    file_ext = extension[1:]  # '.txt' → 'txt'
+    
+    print(f"\n📄 Обрабатываю файл: {filename} (расширение: {file_ext})")
+    
+    target_folder = None
+    for folder_name, ext in Folder.items():
+        if ext == file_ext:  # 'txt' == 'txt' → True!
+            target_folder = folder_name
+            break
+    
+    if target_folder:
+        new_path = os.path.join(target_folder, filename)
+        print(f"➡️  Перемещаю в: {target_folder}")
+        
+        try:
+            os.rename(filename, new_path)
+            print(f"✅ Успешно!")
+        except Exception as e:
+            print(f"❌ Ошибка: {e}")
+    else:
+        print(f"⚠️ Не знаю куда положить файл с расширением '{file_ext}'")
+
+print("\n🎉 Сортировка завершена!")
